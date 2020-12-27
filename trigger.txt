@@ -1,1 +1,1 @@
-Trigger Jenkins POLL SCM job automatically
+Trigger Jenkins POLL SCM job automatically.
