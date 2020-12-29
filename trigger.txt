@@ -1,1 +1,2 @@
 Trigger Jenkins POLL SCM job automatically.
+added build.xml
