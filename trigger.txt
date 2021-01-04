@@ -1,3 +1,2 @@
 Trigger Jenkins POLL SCM job automatically.
 Deleted build.xml
-35
