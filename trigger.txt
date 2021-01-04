@@ -1,2 +1,2 @@
-Trigger Jenkins POLL SCM job automatically.
+Trigger Jenkins job automatically using GitHub webhook
 Deleted build.xml
